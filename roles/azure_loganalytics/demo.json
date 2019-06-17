@@ -10,10 +10,6 @@
     },
     "location": {
         "type": "String",
-        "allowedValues": [
-          "eastus",
-          "westus"
-        ],
         "defaultValue": "eastus",
         "metadata": {
           "description": "Specifies the location in which to create the workspace."
